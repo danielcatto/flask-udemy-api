@@ -1,0 +1,7 @@
+após criado virtualenv
+
+criar pasta api, e dentro de api criar python package com nomes:
+    entidades, models, schemas, services,
+para deixar com o maior desacoplamento possível
+
+
