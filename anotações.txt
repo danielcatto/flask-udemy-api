@@ -6,3 +6,12 @@ para deixar com o maior desacoplamento possível
 
 
 proxima aula: 32
+
+
+MIGRATIONS:
+Ativar o ambiente virtual venv
+    export FLASK_APP=api.py
+    flask db init
+    flask db migrate
+    flask db upgrade
+
