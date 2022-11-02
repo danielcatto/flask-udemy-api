@@ -5,3 +5,4 @@ criar pasta api, e dentro de api criar python package com nomes:
 para deixar com o maior desacoplamento possível
 
 
+proxima aula: 32
